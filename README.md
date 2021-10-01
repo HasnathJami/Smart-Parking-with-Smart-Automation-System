@@ -41,9 +41,9 @@ These following parts and tools are required for building this project
 
 Our Smart parking with smart automation system has the following
 
-# features:
+# Features:
 
-• Automated gate functioning
+• Automated gate functioning \n
 • Slot Allocation
 • Fire Detection
 • Gas Detection
