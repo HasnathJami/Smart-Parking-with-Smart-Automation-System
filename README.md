@@ -43,7 +43,7 @@ Our Smart parking with smart automation system has the following features.
 
 # Features:
 
-## 1.Automated gate functioning:
+## 1. Automated gate functioning:
 
 Then entrance and the exit gates will open close automatically according
 to the distance of the cars from the gate. It will also remain closed depending on the number of cars.If the parking slots are full then the entrance
@@ -53,35 +53,35 @@ motor is used to rotate the sensor so that it can measure the distance in
 both directions.The opening of the gates will be indicated by the led.’Red’
 means closed ’Green’ means open.
 
-## 2.Slot Allocation:
+## 2. Slot Allocation:
 The slots will be visible in the LCD according to allocations of cars. If
 ’0’then there is no car indication and if ’X’ there is a car. This function is
 working by using ultrasonic sensors in the respective parking slots.
 
 
-## 3.Fire Detection:
+## 3. Fire Detection:
 If any kind of fire/flame occurs then a fire alarm will be activated.This
 system is executed by using flame sensor and buzzer
 
-## 4.Fire sprinkler System:
+## 4. Fire sprinkler System:
 When Fire is detected the sprinkler system will be activated by using dc
 motor consisting of a water supply system providing adequate pressure
 and flow rate to a water distribution.
 
-## 5.Gas Detection:
+## 5. Gas Detection:
 If any kind of gas leakage occurs then a fire alarm will be activated.This
 system is executed by using gas sensor and buzzer.
 
-## 6.Earthquake Detection:
+## 6. Earthquake Detection:
 During earthquake an alarm will be activated. This system is executed by
 using vibration sensor and buzzer.
 
-## 7.Emergency Evacuation:
+## 7. Emergency Evacuation:
 During any type of hazards like fire,earthquake,gas leakage etc both the
 entrance and exit gates will automatically open.During this type the LCD
 will also show an emergency message.
 
-## 8.Automated lighting system:
+## 8. Automated lighting system:
 The lighting system of the parking lot will be automatically activated when
 there is not enough sunlight.This will ensure proper lighting during night
 time gloomy weather.Moreover there is an emergency light attached which
