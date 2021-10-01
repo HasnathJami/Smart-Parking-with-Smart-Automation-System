@@ -43,13 +43,6 @@ Our Smart parking with smart automation system has the following features.
 
 # Features:
 
-• Automated gate functioning
-• Slot Allocation
-• Fire Detection
-• Gas Detection
-• Earthquake Detection
-• Emergency Evacuation
-
 ## 1.Automated gate functioning:
 
 Then entrance and the exit gates will open close automatically according
