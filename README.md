@@ -18,7 +18,7 @@ valuable time.
 
 # Required Components:
 
- These following parts and tools are required for building this project
+
 • Arduino Mega
 • Ultrasonic sensor
 • LCD Screen
