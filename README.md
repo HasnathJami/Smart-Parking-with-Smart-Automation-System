@@ -18,7 +18,7 @@ valuable time.
 
 # Required Components:
 
-These following parts and tools are required for building this project
+ These following parts and tools are required for building this project
 • Arduino Mega
 • Ultrasonic sensor
 • LCD Screen
@@ -60,36 +60,35 @@ motor is used to rotate the sensor so that it can measure the distance in
 both directions.The opening of the gates will be indicated by the led.’Red’
 means closed ’Green’ means open.
 
-# Slot Allocation:
+## Slot Allocation:
 The slots will be visible in the LCD according to allocations of cars. If
 ’0’then there is no car indication and if ’X’ there is a car. This function is
 working by using ultrasonic sensors in the respective parking slots.
 
 
-# Fire Detection:
+## Fire Detection:
 If any kind of fire/flame occurs then a fire alarm will be activated.This
 system is executed by using flame sensor and buzzer
 
-
-# Fire sprinkler System:
+## Fire sprinkler System:
 When Fire is detected the sprinkler system will be activated by using dc
 motor consisting of a water supply system providing adequate pressure
 and flow rate to a water distribution.
 
-# Gas Detection:
+## Gas Detection:
 If any kind of gas leakage occurs then a fire alarm will be activated.This
 system is executed by using gas sensor and buzzer.
 
-# Earthquake Detection:
+## Earthquake Detection:
 During earthquake an alarm will be activated. This system is executed by
 using vibration sensor and buzzer.
 
-# Emergency Evacuation:
+## Emergency Evacuation:
 During any type of hazards like fire,earthquake,gas leakage etc both the
 entrance and exit gates will automatically open.During this type the LCD
 will also show an emergency message.
 
-# Automated lighting system:
+## Automated lighting system:
 The lighting system of the parking lot will be automatically activated when
 there is not enough sunlight.This will ensure proper lighting during night
 time gloomy weather.Moreover there is an emergency light attached which
