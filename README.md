@@ -39,7 +39,7 @@ valuable time.
 
 # Working Procedure:
 
-Our Smart parking with smart automation system has the following
+Our Smart parking with smart automation system has the following features.
 
 # Features:
 
